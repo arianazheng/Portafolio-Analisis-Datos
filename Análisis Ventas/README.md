@@ -17,7 +17,7 @@ Muestra un análisis de ventas ficticias de una tienda de artículos variados en
 ---
 
 ## 📊 Visualización principal
-![Dashboard de Ventas](Analisis_Ventas/dashboard_AnalisisVentas.png)
+![Dashboard de Ventas](/Análisis%20Ventas/dashboard_AnálisisVentas.png)
 
 ---
 
