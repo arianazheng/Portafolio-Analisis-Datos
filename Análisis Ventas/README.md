@@ -29,9 +29,9 @@ Muestra un análisis de ventas ficticias de una tienda de artículos variados en
 ---
 
 ## 📂 Archivos incluidos
-- [Análisis Ventas 2024.pbix](Análisis%20Ventas/Análisis%20Ventas%2024.pbix) → Dashboard editable en Power BI.  
-- [ventas_tienda_CR.xlsx](Análisis%20Ventas/ventas_tienda_CR.xlsx) → Dataset ficticio utilizado.  
-- [dashboard_AnálisisVentas.png](Análisis%20Ventas/dashboard_AnálisisVentas.png) → Vista previa del dashboard.
+- 📊 **[Análisis Ventas 2024.pbix](Análisis%20Ventas/Análisis%20Ventas%202024.pbix)** → Dashboard editable en Power BI  
+- 📈 **[ventas_tienda_CR.xlsx](Análisis%20Ventas/ventas_tienda_CR.xlsx)** → Dataset ficticio utilizado  
+- 🖼️ **[dashboard_AnálisisVentas.png](Análisis%20Ventas/dashboard_AnálisisVentas.png)** → Vista previa del dashboard
 
 ---
 
