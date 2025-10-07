@@ -14,7 +14,7 @@ Este proyecto es parte de mi portafolio profesional como Analista de Datos. El o
 ---
 
 ## 📊 Visualización principal
-![Dashboard de Ventas](PowerBI/Analisis_Ventas/dashboard_AnalisisVentas.png)
+![Dashboard de Campañas](/Análisis%20Ventas/Dashboard_DesempeñoCampañas.png)
 
 ---
 
@@ -26,13 +26,12 @@ Este proyecto es parte de mi portafolio profesional como Analista de Datos. El o
 ---
 
 ## 📂 Archivos incluidos
-- `./Power BI/Análisis Ventas/Análisis Ventas 2024.pbix` → Dashboard editable en Power BI.  
-- `d./Power BI/Análisis Ventas/Ventas_CR.xlsx` → Dataset ficticio utilizado.  
-- `./Power BI/Análisis Ventas/Analisis_Ventas.png` → Vista previa del dashboard.  
+-📊 **[Campañas Marjeting.pbix](Campañas%20Marketing.pbix)** → Dashboard editable en Power BI.  
+-📈 **[Datos Marketing](datos_marketing_ficticios.xlsx)** → Dataset ficticio utilizado.  
+-🖼️ **[Dashboard_Marketing.png](/Dashboard_DesempeñoCampañas.png)** → Vista previa del dashboard.
 
 ## 📌 Métricas Incluidas
-
-- Total de Impresiones  
+- Total de Impresiones
 - Total de Clics  
 - Total de Conversiones  
 - Rendimiento (%)  
