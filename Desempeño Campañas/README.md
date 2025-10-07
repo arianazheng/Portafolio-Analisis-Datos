@@ -14,7 +14,7 @@ Este proyecto es parte de mi portafolio profesional como Analista de Datos. El o
 ---
 
 ## 📊 Visualización principal
-![Dashboard de Campañas](/Desempeño%20Campañas/Dashboard_DesempeñoCampañas.png)
+![Dashboard de Campañas](/Desempeño%20Campañas/Dashboard_DesempeñodeCampañas.png)
 
 ---
 
