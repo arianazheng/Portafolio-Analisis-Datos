@@ -1,4 +1,5 @@
-📊 Portafolio de Dashboards – Ariana Ye Zheng
+📊 **Portafolio de Dashboards – Ariana Ye Zheng**
+
 Bienvenido a mi portafolio profesional como Analista de Datos Jr. Aquí comparto proyectos desarrollados con Power BI, simulando escenarios reales en marketing, ventas y otros contextos empresariales. Cada dashboard está diseñado con enfoque en claridad, narrativa visual y buenas prácticas de UX, utilizando datos ficticios para demostrar habilidades técnicas, estratégicas y creativas.
 
 ---
@@ -17,5 +18,7 @@ Simulación de análisis de campañas digitales con métricas clave como impresi
 ---
 
 👩‍💻 Ariana Ye Zheng – Analista de Datos Jr. 
+
 📍 Costa Rica | 💼 En búsqueda activa de oportunidades en análisis de datos 
+
 🔗 [LinkedIn](https://www.linkedin.com/in/ariana-ye-zheng-3a1959326)
